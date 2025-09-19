@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@sveltejs/adapter-auto": "^6.1.0",
+    "@sveltejs/kit": "^2.42.1",
+    "svelte": "^5.39.2",
+    "vite": "^7.1.6"
+  }
+}
